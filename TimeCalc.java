@@ -13,11 +13,11 @@ public class TimeCalc {
         String NewHoursF = String.format("%02d", NewHours);          
             String NewMinutesF = String.format("%02d", NewMinutes);          
 
-        System.out.println(NewHoursF + ":" + NewMinutesF);
+       System.out.println(NewHoursF + ":" + NewMinutesF);
 
-        System.out.println(TotalMin);
-        System.out.println(AddMin);
-                System.out.println(NewHours + "....." + NewMinutes);	
+      //  System.out.println(TotalMin);
+        //System.out.println(AddMin);
+          //      System.out.println(NewHours + "....." + NewMinutes);	
  }
 	
 }

@@ -11,13 +11,13 @@ public class Cheers {
                         char letter = name.charAt(i);
 
                          if (anLet.indexOf(letter) == -1) {
-                                System.out.println("Give me a " + letter + ": " + letter + "!"); 
+                                System.out.println("Give me a  " + letter + ": " + letter + "!"); 
                         }
                         else {
                                 System.out.println("Give me an " + letter + ": " + letter + "!");                }
 
                         }
-                System.out.println("what does that spell?");
+                System.out.println("what does that spell? ");
 
                 for (int i = 0; i < num; i++){
                         System.out.println(name + "!!!");
